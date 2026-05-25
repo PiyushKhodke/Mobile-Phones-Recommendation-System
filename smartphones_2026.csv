@@ -1,0 +1,67 @@
+Brand,Model,Prices,RAM,Camera,Processor,Battery,Ratings
+Apple,iPhone 17 Pro Max,159900,8,48,A19 Pro,4600,4.8
+Apple,iPhone 17 Pro Max (12GB RAM),183885,12,48,A19 Pro,4600,4.8
+Apple,iPhone 17 Pro,134900,8,48,A19 Pro,3500,4.7
+Apple,iPhone 17 Pro (12GB RAM),155135,12,48,A19 Pro,3500,4.7
+Apple,iPhone 17,79900,8,48,A19 Bionic,3500,4.6
+Apple,iPhone 17 (12GB RAM),91885,12,48,A19 Bionic,3500,4.6
+Samsung,Galaxy S26 Ultra,139999,16,200,Snapdragon 8 Gen 5,5000,4.8
+Samsung,Galaxy S26 Plus,99999,12,50,Snapdragon 8 Gen 5,4900,4.7
+Samsung,Galaxy S26 Plus (16GB RAM),114998,16,50,Snapdragon 8 Gen 5,4900,4.7
+Samsung,Galaxy S26,79999,12,50,Snapdragon 8 Gen 5,4000,4.6
+Samsung,Galaxy S26 (16GB RAM),91998,16,50,Snapdragon 8 Gen 5,4000,4.6
+Google,Pixel 10 Pro XL,115999,16,50,Tensor G5,5060,4.6
+Google,Pixel 10,74999,12,50,Tensor G5,4500,4.5
+Google,Pixel 10 (16GB RAM),86248,16,50,Tensor G5,4500,4.5
+OnePlus,14 Pro,74999,16,50,Snapdragon 8 Gen 4,5400,4.6
+OnePlus,Open 2,139999,16,48,Snapdragon 8 Gen 4,4805,4.7
+Xiaomi,16 Ultra,109999,16,50,Snapdragon 8 Gen 4,5300,4.7
+Vivo,X110 Pro,89999,16,50,Dimensity 9400,5400,4.8
+OnePlus,14R,42999,12,50,Snapdragon 8 Gen 3,5500,4.5
+OnePlus,14R (16GB RAM),49448,16,50,Snapdragon 8 Gen 3,5500,4.5
+Nothing,Phone (3),44999,12,50,Snapdragon 8s Gen 3,4900,4.4
+Nothing,Phone (3) (16GB RAM),51748,16,50,Snapdragon 8s Gen 3,4900,4.4
+Samsung,Galaxy A56 5G,39999,8,50,Exynos 1580,5000,4.3
+Samsung,Galaxy A56 5G (12GB RAM),45998,12,50,Exynos 1580,5000,4.3
+Google,Pixel 9a,47999,8,64,Tensor G4,4500,4.4
+Google,Pixel 9a (12GB RAM),55198,12,64,Tensor G4,4500,4.4
+iQOO,13,52999,12,50,Snapdragon 8 Gen 4,5160,4.6
+iQOO,13 (16GB RAM),60948,16,50,Snapdragon 8 Gen 4,5160,4.6
+Motorola,Edge 60 Pro,54999,12,50,Snapdragon 8 Gen 3,4600,4.5
+Motorola,Edge 60 Pro (16GB RAM),63248,16,50,Snapdragon 8 Gen 3,4600,4.5
+Poco,F7 Pro,31999,12,50,Snapdragon 8 Gen 2,5000,4.3
+Poco,F7 Pro (16GB RAM),36798,16,50,Snapdragon 8 Gen 2,5000,4.3
+Realme,14 Pro+ 5G,29999,8,50,Snapdragon 7s Gen 3,5200,4.3
+Realme,14 Pro+ 5G (12GB RAM),34498,12,50,Snapdragon 7s Gen 3,5200,4.3
+Redmi,Note 14 Pro+ 5G,32999,12,200,Dimensity 7300 Ultra,5000,4.2
+Redmi,Note 14 Pro+ 5G (16GB RAM),37948,16,200,Dimensity 7300 Ultra,5000,4.2
+Motorola,Edge 60 Fusion,24999,8,50,Snapdragon 7s Gen 3,5000,4.4
+Motorola,Edge 60 Fusion (12GB RAM),28748,12,50,Snapdragon 7s Gen 3,5000,4.4
+OnePlus,Nord 5,28999,8,50,Snapdragon 7+ Gen 3,5500,4.4
+OnePlus,Nord 5 (12GB RAM),33348,12,50,Snapdragon 7+ Gen 3,5500,4.4
+Nothing,Phone (2a) Plus,27999,8,50,Dimensity 7350 Pro,5000,4.4
+Nothing,Phone (2a) Plus (12GB RAM),32198,12,50,Dimensity 7350 Pro,5000,4.4
+iQOO,Z10 Pro,23999,8,64,Snapdragon 7 Gen 3,4600,4.3
+iQOO,Z10 Pro (12GB RAM),27598,12,64,Snapdragon 7 Gen 3,4600,4.3
+Samsung,Galaxy M56,26999,8,108,Exynos 1480,6000,4.2
+Samsung,Galaxy M56 (12GB RAM),31048,12,108,Exynos 1480,6000,4.2
+Poco,X7 5G,16999,6,64,Dimensity 6100+,5000,4.1
+Poco,X7 5G (10GB RAM),19548,10,64,Dimensity 6100+,5000,4.1
+Redmi,Note 14 5G,17999,6,108,Dimensity 6080,5000,4.1
+Redmi,Note 14 5G (10GB RAM),20698,10,108,Dimensity 6080,5000,4.1
+Realme,14 5G,15999,6,50,Dimensity 6100+,5000,4.2
+Realme,14 5G (10GB RAM),18398,10,50,Dimensity 6100+,5000,4.2
+Samsung,Galaxy M35 5G,19999,6,50,Exynos 1380,6000,4.0
+Samsung,Galaxy M35 5G (10GB RAM),22998,10,50,Exynos 1380,6000,4.0
+Motorola,Moto G85 5G,18999,8,50,Snapdragon 6s Gen 3,5000,4.2
+Motorola,Moto G85 5G (12GB RAM),21848,12,50,Snapdragon 6s Gen 3,5000,4.2
+Vivo,T4x 5G,13999,6,50,Snapdragon 6 Gen 1,6000,4.1
+Vivo,T4x 5G (10GB RAM),16098,10,50,Snapdragon 6 Gen 1,6000,4.1
+Poco,M7 5G,10999,4,50,Dimensity 6100+,5000,4.0
+Poco,M7 5G (8GB RAM),12648,8,50,Dimensity 6100+,5000,4.0
+Infinix,Note 40 5G,15999,8,108,Dimensity 7020,5000,4.1
+Infinix,Note 40 5G (12GB RAM),18398,12,108,Dimensity 7020,5000,4.1
+Lava,Agni 3,21999,8,50,Dimensity 7300,5000,4.3
+Lava,Agni 3 (12GB RAM),25298,12,50,Dimensity 7300,5000,4.3
+CMF by Nothing,Phone 2,16999,6,50,Dimensity 7300,5000,4.2
+CMF by Nothing,Phone 2 (10GB RAM),19548,10,50,Dimensity 7300,5000,4.2
